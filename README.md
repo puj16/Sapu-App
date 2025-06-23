@@ -25,7 +25,7 @@ Aplikasi ini dirancang untuk membantu petani dan pihak terkait dalam mengelola p
 
 ## ⚙️ Teknologi  
 - **Backend**: Laravel (PHP)  
-- **Frontend**: Blade + Tailwind CSS + JavaScript (Vite)  
+- **Frontend**: Blade + Bootstrap CSS + JavaScript (Vite)  
 - **Database**: MySQL   
 
 ---
