@@ -69,4 +69,25 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
    ```bash
    http://127.0.0.1:8000
 
+---
+
+## 📸 Snapshot Aplikasi
+
+Berikut adalah tampilan antarmuka dari aplikasi:
+
+### 📄 Berkas Pengajuan RDKK
+![Berkas Pengajuan](public/images/snapshot/berkasPengajuan.png)  
+Berkas pengajuan **Rencana Definitif Kebutuhan Kelompok (RDKK)** yang diunggah oleh petani.
+
+---
+
+### 📊 Data RDKK yang Disetujui
+![RDKK](public/images/snapshot/rdkk.png)  
+Menampilkan data RDKK yang telah diverifikasi dan disetujui oleh pihak terkait.
+
+---
+
+### 🚚 Penyaluran Berdasar RDKK
+![Penyaluran Berdasar RDKK](public/images/snapshot/penyaluran.png)  
+Menampilkan proses **penyaluran pupuk** berdasarkan data RDKK yang telah disetujui.
 
